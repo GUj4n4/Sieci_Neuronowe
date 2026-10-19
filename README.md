@@ -1,1 +1,1 @@
-# Sieci_Neuronowe
+# Nr_albumu: 181127
